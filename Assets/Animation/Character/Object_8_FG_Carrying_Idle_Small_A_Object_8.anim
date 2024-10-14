@@ -1,0 +1,4085 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Object_8_FG_Carrying_Idle_Small_A_Object_8
+  serializedVersion: 7
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0, y: 0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: 0, y: 0, z: -0, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.7071068, y: -0.000000012101622, z: -0.00000001210162, w: 0.7071067}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: 0.7071068, y: -0.000000012101622, z: -0.00000001210162, w: 0.7071067}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.0200401, y: -1.7649744e-15, z: -4.28714e-17, w: 0.9997992}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: -0.0200401, y: -1.7649744e-15, z: -4.28714e-17, w: 0.9997992}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.070580475, y: 5.3901242e-15, z: 4.6970984e-16, w: 0.99750614}
+        inSlope: {x: -0.009188175, y: -3.9946074e-18, z: 4.8392686e-17, w: -0.00065374374}
+        outSlope: {x: -0.009188175, y: -3.9946074e-18, z: 4.8392686e-17, w: -0.00065374374}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: -0.07088906, y: 5.390428e-15, z: 4.697542e-16, w: 0.9974842}
+        inSlope: {x: 0.033848163, y: 1.6425631e-17, z: -1.8416959e-16, w: 0.0024290038}
+        outSlope: {x: 0.033848163, y: 1.6425631e-17, z: -1.8416959e-16, w: 0.0024290038}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.049548835, y: -0.00000007831155, z: -0.0000000024137685, w: 0.9987717}
+        inSlope: {x: -0.084625125, y: 2.1606184e-10, z: -0.0000000066354975, w: -0.0043473244}
+        outSlope: {x: -0.084625125, y: 2.1606184e-10, z: -0.0000000066354975, w: -0.0043473244}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.9583334
+        value: {x: -0.10008339, y: -0.00000007808871, z: -0.0000000063779626, w: 0.9949791}
+        inSlope: {x: 0.040195517, y: -2.5553973e-10, z: 0.0000000031546143, w: 0.004015448}
+        outSlope: {x: 0.040195517, y: -2.5553973e-10, z: 0.0000000031546143, w: 0.004015448}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: -0.054958563, y: -0.00000007829732, z: -0.0000000028379543, w: 0.99848866}
+        inSlope: {x: 0.15040942, y: -4.6452353e-10, z: 0.000000011795177, w: 0.008753283}
+        outSlope: {x: 0.15040942, y: -4.6452353e-10, z: 0.000000011795177, w: 0.008753283}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Head_C_jnt01_04
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.0076968507, y: 0.00000009544642, z: 7.346623e-10, w: 0.9999704}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: 0.0076968507, y: 0.00000009544642, z: 7.346623e-10, w: 0.9999704}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Head_C_jnt01_04/Eye_L_jnt_05
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.000000014901161, y: 0.0000000029825091, z: 4.440892e-16, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: 0.000000014901161, y: 0.0000000029825091, z: 4.440892e-16, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Head_C_jnt01_04/Eye_R_jnt_06
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -8.881786e-16, y: 0.00000007869873, z: -2.5804917e-10, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: -8.881786e-16, y: 0.00000007869873, z: -2.5804917e-10, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Head_C_jnt01_04/Head_C_nub_07
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.38772804, y: 0.26013613, z: 0.8812308, w: -0.07367851}
+        inSlope: {x: -0.080213785, y: -0.09799218, z: -0.014805794, w: -0.09385228}
+        outSlope: {x: -0.080213785, y: -0.09799218, z: -0.014805794, w: -0.09385228}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.6666667
+        value: {x: -0.4267384, y: 0.2083689, z: 0.8713842, w: -0.123151384}
+        inSlope: {x: 0.020566452, y: 0.0377485, z: 0.006404397, w: 0.038125526}
+        outSlope: {x: 0.020566452, y: 0.0377485, z: 0.006404397, w: 0.038125526}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: -0.38687947, y: 0.2612085, z: 0.88136524, w: -0.072730005}
+        inSlope: {x: 0.02372785, y: 0.037542272, z: 0.0017352072, w: 0.02884585}
+        outSlope: {x: 0.02372785, y: 0.037542272, z: 0.0017352072, w: 0.02884585}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Shoulder_L_jnt_08
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.0019263556, y: -0.0007489705, z: 0.34174892, w: 0.939789}
+        inSlope: {x: 0.000071061775, y: 0.00032170862, z: -0.14857721, w: 0.05347824}
+        outSlope: {x: 0.000071061775, y: 0.00032170862, z: -0.14857721, w: 0.05347824}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.7083334
+        value: {x: 0.0019785687, y: -0.0005914016, z: 0.26527825, w: 0.9641697}
+        inSlope: {x: -0.00007404297, y: -0.00015815679, z: 0.08122805, w: -0.022388943}
+        outSlope: {x: -0.00007404297, y: -0.00015815679, z: 0.08122805, w: -0.022388943}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: 0.001925195, y: -0.0007521552, z: 0.34330308, w: 0.9392224}
+        inSlope: {x: -0.000034891003, y: -0.00008987618, z: 0.043586887, w: -0.01588437}
+        outSlope: {x: -0.000034891003, y: -0.00008987618, z: 0.043586887, w: -0.01588437}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Shoulder_L_jnt_08/Elbow_L_jnt_09
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.012750926, y: 0.5751156, z: 0.026353655, w: 0.8175481}
+        inSlope: {x: 0.0033005476, y: -0.02453041, z: -0.003745705, w: 0.017405033}
+        outSlope: {x: 0.0033005476, y: -0.02453041, z: -0.003745705, w: 0.017405033}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.1666667
+        value: {x: -0.011589248, y: 0.5664235, z: 0.025027178, w: 0.8236527}
+        inSlope: {x: -0.0074874833, y: 0.05976531, z: 0.009512427, w: -0.041492682}
+        outSlope: {x: -0.0074874833, y: 0.05976531, z: 0.009512427, w: -0.041492682}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: -0.012467825, y: 0.5732574, z: 0.026100093, w: 0.8188647}
+        inSlope: {x: -0.0065760263, y: 0.050409697, z: 0.0078547, w: -0.03553956}
+        outSlope: {x: -0.0065760263, y: 0.050409697, z: 0.0078547, w: -0.03553956}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Shoulder_L_jnt_08/Elbow_L_jnt_09/Wrist_L_jnt_010
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.1907205, y: -0.049490046, z: 0.09293656, w: 0.9759812}
+        inSlope: {x: 0.017136455, y: 0.0016320348, z: 0.00086814165, w: 0.0033416748}
+        outSlope: {x: 0.017136455, y: 0.0016320348, z: 0.00086814165, w: 0.0033416748}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.25
+        value: {x: -0.18813473, y: -0.049243715, z: 0.0930673, w: 0.9764829}
+        inSlope: {x: -0.044696134, y: -0.0042600613, z: -0.0022536805, w: -0.008608099}
+        outSlope: {x: -0.044696134, y: -0.0042600613, z: -0.0022536805, w: -0.008608099}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: -0.18992601, y: -0.04941439, z: 0.0929768, w: 0.9761361}
+        inSlope: {x: -0.04299072, y: -0.0040961723, z: -0.0021720487, w: -0.00832413}
+        outSlope: {x: -0.04299072, y: -0.0040961723, z: -0.0021720487, w: -0.00832413}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Shoulder_L_jnt_08/Elbow_L_jnt_09/Wrist_L_jnt_010/Finger01_L_jnt_01_011
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.073190436, y: 0.02733022, z: -0.009454851, w: 0.99689865}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: -0.073190436, y: 0.02733022, z: -0.009454851, w: 0.99689865}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Shoulder_L_jnt_08/Elbow_L_jnt_09/Wrist_L_jnt_010/Finger01_L_jnt_01_011/Finger01_L_jnt_02_012
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.2552709, y: 0.24402368, z: -0.12637205, w: 0.9269948}
+        inSlope: {x: 0.0005493164, y: 0.0055425167, z: -0.0014863014, w: -0.0015120506}
+        outSlope: {x: 0.0005493164, y: 0.0055425167, z: -0.0014863014, w: -0.0015120506}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: -0.25540456, y: 0.24312179, z: -0.12612619, w: 0.92722845}
+        inSlope: {x: -0.0026364275, y: -0.023026899, z: 0.0062538264, w: 0.006176937}
+        outSlope: {x: -0.0026364275, y: -0.023026899, z: 0.0062538264, w: 0.006176937}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Shoulder_L_jnt_08/Elbow_L_jnt_09/Wrist_L_jnt_010/Finger02_L_jnt_01_013
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.053492293, y: -0.0017183371, z: -0.004067218, w: 0.9985585}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: -0.053492293, y: -0.0017183371, z: -0.004067218, w: 0.9985585}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Shoulder_L_jnt_08/Elbow_L_jnt_09/Wrist_L_jnt_010/Finger02_L_jnt_01_013/Finger02_L_jnt_02_014
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.2206438, y: -0.2286367, z: 0.39762214, w: 0.86077774}
+        inSlope: {x: -0.061725855, y: -0.17600298, z: 0.02132821, w: -0.07340813}
+        outSlope: {x: -0.061725855, y: -0.17600298, z: 0.02132821, w: -0.07340813}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.625
+        value: {x: -0.24575575, y: -0.31282705, z: 0.4023426, w: 0.8245385}
+        inSlope: {x: -0.0034902652, y: -0.009623416, z: -0.0027944983, w: -0.0033259438}
+        outSlope: {x: -0.0034902652, y: -0.009623416, z: -0.0027944983, w: -0.0033259438}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.1666667
+        value: {x: -0.22901025, y: -0.2532607, z: 0.40024078, w: 0.8504238}
+        inSlope: {x: 0.06629613, y: 0.20489064, z: -0.017405028, w: 0.087068036}
+        outSlope: {x: 0.06629613, y: 0.20489064, z: -0.017405028, w: 0.087068036}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: -0.2206795, y: -0.22873445, z: 0.39763463, w: 0.8607368}
+        inSlope: {x: 0.06585597, y: 0.18879318, z: -0.022415357, w: 0.07853922}
+        outSlope: {x: 0.06585597, y: 0.18879318, z: -0.022415357, w: 0.07853922}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Shoulder_L_jnt_08/Elbow_L_jnt_09/Wrist_L_jnt_010/Thumb_L_jnt_01_015
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.08288134, y: -0.012693949, z: 0.020063959, w: 0.99627656}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: -0.08288134, y: -0.012693949, z: 0.020063959, w: 0.99627656}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Shoulder_L_jnt_08/Elbow_L_jnt_09/Wrist_L_jnt_010/Thumb_L_jnt_01_015/Thumb_L_jnt_02_016
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.005467978, y: 0.814091, z: -0.45193994, w: -0.36465895}
+        inSlope: {x: -0.0036124997, y: 0.006441593, z: 0.0064179897, w: 0.0064888}
+        outSlope: {x: -0.0036124997, y: 0.006441593, z: 0.0064179897, w: 0.0064888}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: -0.005312399, y: 0.81386226, z: -0.45218527, w: -0.36486775}
+        inSlope: {x: 0.0124405315, y: -0.019326173, z: -0.021906812, w: -0.01621124}
+        outSlope: {x: 0.0124405315, y: -0.019326173, z: -0.021906812, w: -0.01621124}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Shoulder_R_jnt1_017
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.0013475001, y: -0.001498657, z: 0.6243197, w: 0.7811664}
+        inSlope: {x: -0.026235994, y: -0.02128358, z: -0.040178776, w: 0.032014847}
+        outSlope: {x: -0.026235994, y: -0.02128358, z: -0.040178776, w: 0.032014847}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.9166667
+        value: {x: -0.018690389, y: -0.016602432, z: 0.5938711, w: 0.8041717}
+        inSlope: {x: 0.02951222, y: 0.020557983, z: 0.04449103, w: -0.031790957}
+        outSlope: {x: 0.02951222, y: 0.020557983, z: 0.04449103, w: -0.031790957}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: 0.0013197509, y: -0.0015351996, z: 0.6242671, w: 0.78120834}
+        inSlope: {x: 0.050435398, y: 0.04059311, z: 0.07709584, w: -0.06124294}
+        outSlope: {x: 0.050435398, y: 0.04059311, z: 0.07709584, w: -0.06124294}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Shoulder_R_jnt1_017/Elbow_R_jnt1_018
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.2172275, y: 0.0589597, z: 0.06781733, w: 0.97197574}
+        inSlope: {x: -0.009807587, y: 0.05940163, z: -0.033808887, w: 0.0008454323}
+        outSlope: {x: -0.009807587, y: 0.05940163, z: -0.033808887, w: 0.0008454323}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.875
+        value: {x: 0.21028917, y: 0.105255336, z: 0.041621193, w: 0.97106516}
+        inSlope: {x: 0.0061488757, y: -0.034950078, z: 0.019533588, w: 0.0015892979}
+        outSlope: {x: 0.0061488757, y: -0.034950078, z: 0.019533588, w: 0.0015892979}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: 0.2172083, y: 0.05903617, z: 0.06777112, w: 0.9719786}
+        inSlope: {x: 0.018278325, y: -0.1138972, z: 0.0647779, w: -0.0013089156}
+        outSlope: {x: 0.018278325, y: -0.1138972, z: 0.0647779, w: -0.0013089156}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Shoulder_R_jnt1_017/Elbow_R_jnt1_018/Wrist_R_jnt1_019
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.24532926, y: 0.034680907, z: 0.10651378, w: 0.9629463}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: -0.24532926, y: 0.034680907, z: 0.10651378, w: 0.9629463}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Shoulder_R_jnt1_017/Elbow_R_jnt1_018/Wrist_R_jnt1_019/Finger01_R_jnt_03_020
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.0731913, y: 0.027330197, z: -0.009454493, w: 0.9968986}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: -0.0731913, y: 0.027330197, z: -0.009454493, w: 0.9968986}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Shoulder_R_jnt1_017/Elbow_R_jnt1_018/Wrist_R_jnt1_019/Finger01_R_jnt_03_020/Finger01_R_jnt_04_021
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.42275995, y: 0.12992148, z: -0.076267995, w: 0.89363176}
+        inSlope: {x: 0.022806644, y: -0.001947999, z: -0.0033137798, w: 0.010773182}
+        outSlope: {x: 0.022806644, y: -0.001947999, z: -0.0033137798, w: 0.010773182}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2083334
+        value: {x: -0.41624448, y: 0.12936293, z: -0.0772116, w: 0.89668506}
+        inSlope: {x: -0.050175235, y: 0.0043210424, z: 0.0072379475, w: -0.023285888}
+        outSlope: {x: -0.050175235, y: 0.0043210424, z: 0.0072379475, w: -0.023285888}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: -0.42010197, y: 0.12969422, z: -0.07665382, w: 0.8948843}
+        inSlope: {x: -0.04451028, y: 0.0038173127, z: 0.006443727, w: -0.020839652}
+        outSlope: {x: -0.04451028, y: 0.0038173127, z: 0.006443727, w: -0.020839652}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Shoulder_R_jnt1_017/Elbow_R_jnt1_018/Wrist_R_jnt1_019/Finger02_R_jnt_03_022
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.05349277, y: -0.0017182766, z: -0.004067139, w: 0.99855846}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: -0.05349277, y: -0.0017182766, z: -0.004067139, w: 0.99855846}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Shoulder_R_jnt1_017/Elbow_R_jnt1_018/Wrist_R_jnt1_019/Finger02_R_jnt_03_022/Finger02_R_jnt_04_023
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.1944823, y: -0.27020034, z: 0.38787487, w: 0.8594891}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: -0.1944823, y: -0.27020034, z: 0.38787487, w: 0.8594891}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Shoulder_R_jnt1_017/Elbow_R_jnt1_018/Wrist_R_jnt1_019/Thumb_R_jnt_03_024
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.08288151, y: -0.012693857, z: 0.020064766, w: 0.99627656}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: -0.08288151, y: -0.012693857, z: 0.020064766, w: 0.99627656}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Shoulder_R_jnt1_017/Elbow_R_jnt1_018/Wrist_R_jnt1_019/Thumb_R_jnt_03_024/Thumb_R_jnt_04_025
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.051037315, y: 0.020903653, z: -0.3812748, w: 0.92281514}
+        inSlope: {x: -0.03547266, y: 0.0019775033, z: 0.008405685, w: 0.0014362335}
+        outSlope: {x: -0.03547266, y: 0.0019775033, z: 0.008405685, w: 0.0014362335}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.625
+        value: {x: -0.050022766, y: 0.017908257, z: -0.3798956, w: 0.92350227}
+        inSlope: {x: 0.066654205, y: -0.016801585, z: -0.0056587458, w: 0.0016071806}
+        outSlope: {x: 0.066654205, y: -0.016801585, z: -0.0056587458, w: 0.0016071806}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2083334
+        value: {x: -0.045085587, y: 0.01870187, z: -0.38149896, w: 0.9230797}
+        inSlope: {x: -0.05027162, y: 0.01952507, z: 0.0009555826, w: -0.002449038}
+        outSlope: {x: -0.05027162, y: 0.01952507, z: 0.0009555826, w: -0.002449038}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: -0.048880216, y: 0.020201862, z: -0.38142243, w: 0.92288655}
+        inSlope: {x: -0.04327584, y: 0.017272588, z: 0.0008990748, w: -0.0022501904}
+        outSlope: {x: -0.04327584, y: 0.017272588, z: 0.0008990748, w: -0.0022501904}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Carry_03
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.000000007450581, y: -5.409277e-15, z: 1.04319016e-16, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: 0.000000007450581, y: -5.409277e-15, z: 1.04319016e-16, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Prefab_VFX_Infected_V02_026
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.000000007450581, y: -1.0636881e-19, z: 1.1160226e-16, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: 0.000000007450581, y: -1.0636881e-19, z: 1.1160226e-16, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Prefab_VFX_Infected_V02_026/More_Infected_VFX_027
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.000000007450581, y: -1.0636881e-19, z: 1.1160226e-16, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: 0.000000007450581, y: -1.0636881e-19, z: 1.1160226e-16, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Prefab_VFX_Infected_V02_026/More_Infected_VFX_027/Symbols_028
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.000000007450581, y: -1.0636881e-19, z: 1.1160226e-16, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: 0.000000007450581, y: -1.0636881e-19, z: 1.1160226e-16, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Prefab_VFX_Infected_V02_026/More_Infected_VFX_027/waistRing
+      (1)_029
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.000000007450581, y: -1.0636881e-19, z: 1.1160226e-16, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: 0.000000007450581, y: -1.0636881e-19, z: 1.1160226e-16, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Prefab_VFX_Infected_V02_026/SmokeTrailing_030
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.000000007450581, y: -1.0636881e-19, z: 1.1160226e-16, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: 0.000000007450581, y: -1.0636881e-19, z: 1.1160226e-16, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Prefab_VFX_Infected_V02_026/SmokeLocal_031
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.014629544, y: 9.4181825e-18, z: 1.5842833e-17, w: 0.999893}
+        inSlope: {x: 0.02933579, y: -1.4638119e-18, z: 4.2607994e-17, w: 0.0004105568}
+        outSlope: {x: 0.02933579, y: -1.4638119e-18, z: 4.2607994e-17, w: 0.0004105568}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1
+        value: {x: 0.00936639, y: 8.844226e-18, z: 5.85297e-17, w: 0.99995613}
+        inSlope: {x: -0.04238057, y: -3.4491819e-18, z: 4.3290775e-17, w: 0.00038051582}
+        outSlope: {x: -0.04238057, y: -3.4491819e-18, z: 4.3290775e-17, w: 0.00038051582}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: -0.010870934, y: 7.127251e-18, z: 7.120608e-17, w: 0.99994093}
+        inSlope: {x: -0.06682702, y: -6.4582896e-18, z: 4.3376792e-17, w: -0.00063371536}
+        outSlope: {x: -0.06682702, y: -6.4582896e-18, z: 4.3376792e-17, w: -0.00063371536}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Pelvis_C_jnt_032
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.0011924354, y: 0.27056944, z: 0.9626294, w: -0.011638826}
+        inSlope: {x: 0.0019782325, y: -0.12733626, z: 0.03541088, w: -0.00031401962}
+        outSlope: {x: 0.0019782325, y: -0.12733626, z: 0.03541088, w: -0.00031401962}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.6666667
+        value: {x: -0.00024704437, y: 0.21003672, z: 0.97762275, w: -0.011762578}
+        inSlope: {x: -0.0008660423, y: 0.05826882, z: -0.012542004, w: 0.000012952829}
+        outSlope: {x: -0.0008660423, y: 0.05826882, z: -0.012542004, w: 0.000012952829}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: -0.0012181158, y: 0.27222502, z: 0.9621619, w: -0.011684971}
+        inSlope: {x: -0.0007192162, y: 0.0107703, z: -0.0030441226, w: 0.00013989929}
+        outSlope: {x: -0.0007192162, y: 0.0107703, z: -0.0030441226, w: 0.00013989929}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Pelvis_C_jnt_032/Hip_L_jnt_033
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.6768366, y: -0.0000000026884557, z: 0.00000006657878, w: 0.7361333}
+        inSlope: {x: 0.20145607, y: 0.000000018616335, z: 1.9440449e-10, w: 0.18313122}
+        outSlope: {x: 0.20145607, y: 0.000000018616335, z: 1.9440449e-10, w: 0.18313122}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.33333334
+        value: {x: -0.5854472, y: 0.0000000053157114, z: 0.000000066270815, w: 0.81071055}
+        inSlope: {x: 0.49137223, y: 0.000000040564146, z: -0.000000003752178, w: 0.35393366}
+        outSlope: {x: 0.49137223, y: 0.000000040564146, z: -0.000000003752178, w: 0.35393366}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.6666667
+        value: {x: -0.46615574, y: 0.000000014664884, z: 0.00000006469336, w: 0.8847027}
+        inSlope: {x: -0.07372746, y: -0.0000000050372804, z: 6.678814e-10, w: -0.039143782}
+        outSlope: {x: -0.07372746, y: -0.0000000050372804, z: 6.678814e-10, w: -0.039143782}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.0833334
+        value: {x: -0.62543404, y: 0.0000000023255782, z: 0.000000066108086, w: 0.7802771}
+        inSlope: {x: -0.4659395, y: -0.00000003898794, z: 9.593188e-10, w: -0.372831}
+        outSlope: {x: -0.4659395, y: -0.00000003898794, z: 9.593188e-10, w: -0.372831}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.25
+        value: {x: -0.67462015, y: -0.0000000018759825, z: 0.00000006604822, w: 0.7381651}
+        inSlope: {x: -0.10630771, y: -0.00000000901823, z: -6.962747e-10, w: -0.09706017}
+        outSlope: {x: -0.10630771, y: -0.00000000901823, z: -6.962747e-10, w: -0.09706017}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: -0.6786745, y: -0.0000000022191295, z: 0.00000006601906, w: 0.7344392}
+        inSlope: {x: -0.097304635, y: -0.000000008235514, z: -6.9985484e-10, w: -0.0894211}
+        outSlope: {x: -0.097304635, y: -0.000000008235514, z: -6.9985484e-10, w: -0.0894211}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Pelvis_C_jnt_032/Hip_L_jnt_033/Knee_L_jnt_034
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.7730047, y: 0.0026238144, z: -0.011402343, w: 0.6342924}
+        inSlope: {x: -0.1511321, y: -0.0030349419, z: 0.0033928603, w: 0.18241167}
+        outSlope: {x: -0.1511321, y: -0.0030349419, z: 0.0033928603, w: 0.18241167}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.5833334
+        value: {x: 0.6797597, y: 0.0008606561, z: -0.009789273, w: 0.7333691}
+        inSlope: {x: -0.145026, y: -0.002195288, z: 0.0018148164, w: 0.13467051}
+        outSlope: {x: -0.145026, y: -0.002195288, z: 0.0018148164, w: 0.13467051}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.9166667
+        value: {x: 0.70095855, y: 0.0013116719, z: -0.010083892, w: 0.7131295}
+        inSlope: {x: 0.25881088, y: 0.0046204883, z: -0.00378968, w: -0.25481474}
+        outSlope: {x: 0.25881088, y: 0.0046204883, z: -0.00378968, w: -0.25481474}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.25
+        value: {x: 0.7723376, y: 0.002593664, z: -0.011380411, w: 0.635105}
+        inSlope: {x: 0.06499598, y: 0.0017199407, z: -0.0014844233, w: -0.07902858}
+        outSlope: {x: 0.06499598, y: 0.0017199407, z: -0.0014844233, w: -0.07902858}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: 0.7748667, y: 0.0026630836, z: -0.011438775, w: 0.63201565}
+        inSlope: {x: 0.060697917, y: 0.0016660678, z: -0.0014007363, w: -0.0741447}
+        outSlope: {x: 0.060697917, y: 0.0016660678, z: -0.0014007363, w: -0.0741447}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Pelvis_C_jnt_032/Hip_L_jnt_033/Knee_L_jnt_034/Ankle_L_jnt_035
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.32602778, y: -0.00000022404929, z: 0.000000053102422, w: 0.9453602}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: 0.32602778, y: -0.00000022404929, z: 0.000000053102422, w: 0.9453602}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Pelvis_C_jnt_032/Hip_L_jnt_033/Knee_L_jnt_034/Ankle_L_jnt_035/Ball_L_jnt_00
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.000000012572871, y: -1.7053026e-13, z: -1.101341e-13, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: -0.000000012572871, y: -1.7053026e-13, z: -1.101341e-13, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Pelvis_C_jnt_032/Hip_L_jnt_033/Knee_L_jnt_034/Ankle_L_jnt_035/Ball_L_jnt_00/Toe_L_jnt_036
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.018640473, y: 0.96374744, z: -0.26616025, w: 0.0014864474}
+        inSlope: {x: 0.0062547773, y: 0.031006336, z: 0.112893105, w: -0.0038699694}
+        outSlope: {x: 0.0062547773, y: 0.031006336, z: 0.112893105, w: -0.0038699694}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.6666667
+        value: {x: -0.0156072425, y: 0.97694486, z: -0.21292041, w: -0.00017606268}
+        inSlope: {x: -0.0029264675, y: -0.0126306955, z: -0.057638858, w: 0.0016096155}
+        outSlope: {x: -0.0029264675, y: -0.0126306955, z: -0.057638858, w: 0.0016096155}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: -0.018763194, y: 0.96303916, z: -0.26870218, w: 0.0016388717}
+        inSlope: {x: -0.0036707302, y: -0.0034604007, z: -0.012150741, w: 0.0013177751}
+        outSlope: {x: -0.0036707302, y: -0.0034604007, z: -0.012150741, w: 0.0013177751}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Pelvis_C_jnt_032/Hip_R_jnt_037
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.6862423, y: 0.00000014084313, z: 0.000000026568133, w: 0.727373}
+        inSlope: {x: 0.20351458, y: 0.000000007991048, z: -0.00000003848301, w: 0.18978882}
+        outSlope: {x: 0.20351458, y: 0.000000007991048, z: -0.00000003848301, w: 0.18978882}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.33333334
+        value: {x: -0.59346485, y: 0.00000014332063, z: 0.000000009599461, w: 0.80485994}
+        inSlope: {x: 0.5016204, y: 0.000000006768518, z: -0.000000088591335, w: 0.36890182}
+        outSlope: {x: 0.5016204, y: 0.000000006768518, z: -0.000000088591335, w: 0.36890182}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.6666667
+        value: {x: -0.47142243, y: 0.00000014353901, z: -0.000000010958053, w: 0.8819075}
+        inSlope: {x: -0.07626482, y: 0.0000000018952724, z: 0.000000012961925, w: -0.041084986}
+        outSlope: {x: -0.07626482, y: 0.0000000018952724, z: 0.000000012961925, w: -0.041084986}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.0833334
+        value: {x: -0.6341195, y: 0.00000014328677, z: 0.000000017494006, w: 0.7732351}
+        inSlope: {x: -0.47380444, y: -0.000000009768323, z: 0.00000008844941, w: -0.38787425}
+        outSlope: {x: -0.47380444, y: -0.000000009768323, z: 0.00000008844941, w: -0.38787425}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.25
+        value: {x: -0.68402123, y: 0.00000014194694, z: 0.000000027088157, w: 0.7294621}
+        inSlope: {x: -0.10714313, y: -0.0000000031471348, z: 0.000000021600464, w: -0.10036679}
+        outSlope: {x: -0.10714313, y: -0.0000000031471348, z: 0.000000021600464, w: -0.10036679}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: -0.68810385, y: 0.00000014182663, z: 0.00000002791611, w: 0.7256122}
+        inSlope: {x: -0.0979827, y: -0.0000000028874128, z: 0.00000001987083, w: -0.09239656}
+        outSlope: {x: -0.0979827, y: -0.0000000028874128, z: 0.00000001987083, w: -0.09239656}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Pelvis_C_jnt_032/Hip_R_jnt_037/Knee_R_jnt_038
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.7838737, y: -0.0048351693, z: 0.018067114, w: 0.6206386}
+        inSlope: {x: -0.1525855, y: 0.0020638816, z: -0.0047422796, w: 0.19086885}
+        outSlope: {x: -0.1525855, y: 0.0020638816, z: -0.0047422796, w: 0.19086885}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.5416667
+        value: {x: 0.6918813, y: -0.003557543, z: 0.01585989, w: 0.7218283}
+        inSlope: {x: -0.18547574, y: 0.0023852007, z: -0.0030702786, w: 0.1780707}
+        outSlope: {x: -0.18547574, y: 0.0023852007, z: -0.0030702786, w: 0.1780707}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 0.875
+        value: {x: 0.6949223, y: -0.003644032, z: 0.015958598, w: 0.7188984}
+        inSlope: {x: 0.27408105, y: -0.0037879143, z: 0.004983903, w: -0.26575187}
+        outSlope: {x: 0.27408105, y: -0.0037879143, z: 0.004983903, w: -0.26575187}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2083334
+        value: {x: 0.7778278, y: -0.0047276663, z: 0.017844016, w: 0.6282063}
+        inSlope: {x: 0.094141334, y: -0.0015278659, z: 0.00295611, w: -0.116536014}
+        outSlope: {x: 0.094141334, y: -0.0015278659, z: 0.00295611, w: -0.116536014}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: 0.78508085, y: -0.004848812, z: 0.018079503, w: 0.6191104}
+        inSlope: {x: 0.088092156, y: -0.0014532516, z: 0.002868036, w: -0.111126214}
+        outSlope: {x: 0.088092156, y: -0.0014532516, z: 0.002868036, w: -0.111126214}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Pelvis_C_jnt_032/Hip_R_jnt_037/Knee_R_jnt_038/Ankle_R_jnt_039
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.32602814, y: 9.778175e-12, z: -0.000000028498897, w: 0.94536006}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: 0.32602814, y: 9.778175e-12, z: -0.000000028498897, w: 0.94536006}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Pelvis_C_jnt_032/Hip_R_jnt_037/Knee_R_jnt_038/Ankle_R_jnt_039/Ball_R_jnt_040
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.000000016763925, y: 6.3948846e-14, z: -6.750156e-13, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: -0.000000016763925, y: 6.3948846e-14, z: -6.750156e-13, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Pelvis_C_jnt_032/Hip_R_jnt_037/Knee_R_jnt_038/Ankle_R_jnt_039/Ball_R_jnt_040/Toe_R_jnt_041
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.06949065, y: 8.874204e-16, z: 1.7010829e-16, w: 0.9975826}
+        inSlope: {x: 0.028609514, y: 2.7304107e-18, z: -1.1897965e-16, w: 0.0019755363}
+        outSlope: {x: 0.028609514, y: 2.7304107e-18, z: -1.1897965e-16, w: 0.0019755363}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1
+        value: {x: -0.046073113, y: 8.8695213e-16, z: 5.5789904e-17, w: 0.9989381}
+        inSlope: {x: -0.040698018, y: -6.4639165e-18, z: -5.7323325e-17, w: -0.0018939956}
+        outSlope: {x: -0.040698018, y: -6.4639165e-18, z: -5.7323325e-17, w: -0.0018939956}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: -0.065824695, y: 8.8498537e-16, z: 4.6047044e-17, w: 0.9978312}
+        inSlope: {x: -0.06519186, y: -5.5484786e-18, z: -3.569689e-17, w: -0.004211418}
+        outSlope: {x: -0.06519186, y: -5.5484786e-18, z: -3.569689e-17, w: -0.004211418}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Torso_C_jnt_042
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -7.44522e-40, y: 8.886757e-16, z: 1.5352552e-17, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: -7.44522e-40, y: 8.886757e-16, z: 1.5352552e-17, w: 1}
+        inSlope: {x: 0, y: 0, z: 0, w: 0}
+        outSlope: {x: 0, y: 0, z: 0, w: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/PB_TailTag_043
+  m_CompressedRotationCurves: []
+  m_EulerCurves: []
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916666
+        value: {x: -0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916666
+        value: {x: -0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -7.8237363e-19, y: 0.0069131586, z: 0.00027661023}
+        inSlope: {x: -8.5169215e-19, y: 0.00038002967, z: -4.4703483e-10}
+        outSlope: {x: -8.5169215e-19, y: 0.00038002967, z: -4.4703483e-10}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.125
+        value: {x: -1.7405274e-18, y: 0.007053018, z: 0.00027660996}
+        inSlope: {x: -8.516945e-19, y: -0.00083832344, z: -4.4703524e-10}
+        outSlope: {x: -8.5169137e-19, y: -0.00085062586, z: -0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916666
+        value: {x: -1.8824761e-18, y: 0.0069217966, z: 0.0002766099}
+        inSlope: {x: -8.516945e-19, y: -0.0007099635, z: -4.4703524e-10}
+        outSlope: {x: -8.516945e-19, y: -0.0007099635, z: -4.4703524e-10}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 8.396817e-19, y: 0.002873459, z: -3.7252902e-11}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916666
+        value: {x: 8.396817e-19, y: 0.002873459, z: -3.7252902e-11}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 2.0596821e-11, y: 0.001103485, z: 0.00060174393}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916666
+        value: {x: 2.0596821e-11, y: 0.001103485, z: 0.00060174393}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Head_C_jnt01_04
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.0012008223, y: 0.002327971, z: 0.0038215597}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916666
+        value: {x: -0.0012008223, y: 0.002327971, z: 0.0038215597}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Head_C_jnt01_04/Eye_L_jnt_05
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.0012008238, y: 0.002327971, z: 0.0038215593}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916666
+        value: {x: 0.0012008238, y: 0.002327971, z: 0.0038215593}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Head_C_jnt01_04/Eye_R_jnt_06
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -1.4291494e-10, y: 0.008447016, z: -0.00080750644}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916666
+        value: {x: -1.4291494e-10, y: 0.008447016, z: -0.00080750644}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Head_C_jnt01_04/Head_C_nub_07
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.0048735673, y: 0.0014909046, z: 0.00097141665}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916666
+        value: {x: -0.0048735673, y: 0.0014909046, z: 0.00097141665}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Shoulder_L_jnt_08
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 4.4703483e-10, y: 0.0034572147, z: -2.9802322e-10}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916666
+        value: {x: 4.4703483e-10, y: 0.0034572147, z: -2.9802322e-10}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Shoulder_L_jnt_08/Elbow_L_jnt_09
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1.5832484e-10, y: 0.0027322506, z: -2.9802322e-10}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916666
+        value: {x: 1.5832484e-10, y: 0.0027322506, z: -2.9802322e-10}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Shoulder_L_jnt_08/Elbow_L_jnt_09/Wrist_L_jnt_010
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.0008042282, y: 0.0026761496, z: 0.00027519537}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916666
+        value: {x: -0.0008042282, y: 0.0026761496, z: 0.00027519537}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Shoulder_L_jnt_08/Elbow_L_jnt_09/Wrist_L_jnt_010/Finger01_L_jnt_01_011
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -4.4703483e-10, y: 0.00064522226, z: -1.4901161e-10}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916666
+        value: {x: -4.4703483e-10, y: 0.00064522226, z: -1.4901161e-10}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Shoulder_L_jnt_08/Elbow_L_jnt_09/Wrist_L_jnt_010/Finger01_L_jnt_01_011/Finger01_L_jnt_02_012
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.0009785808, y: 0.0024113639, z: 0.000062626896}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916666
+        value: {x: 0.0009785808, y: 0.0024113639, z: 0.000062626896}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Shoulder_L_jnt_08/Elbow_L_jnt_09/Wrist_L_jnt_010/Finger02_L_jnt_01_013
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -5.9604643e-10, y: 0.00053258135, z: -7.4505804e-11}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916666
+        value: {x: -5.9604643e-10, y: 0.00053258135, z: -7.4505804e-11}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Shoulder_L_jnt_08/Elbow_L_jnt_09/Wrist_L_jnt_010/Finger02_L_jnt_01_013/Finger02_L_jnt_02_014
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.001608479, y: 0.0015103536, z: -0.00024903714}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916666
+        value: {x: -0.001608479, y: 0.0015103536, z: -0.00024903714}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Shoulder_L_jnt_08/Elbow_L_jnt_09/Wrist_L_jnt_010/Thumb_L_jnt_01_015
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.000000001490116, y: 0.0006285502, z: 3.72529e-10}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916666
+        value: {x: 0.000000001490116, y: 0.0006285502, z: 3.72529e-10}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Shoulder_L_jnt_08/Elbow_L_jnt_09/Wrist_L_jnt_010/Thumb_L_jnt_01_015/Thumb_L_jnt_02_016
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.0048694354, y: 0.0016164924, z: 0.00097394816}
+        inSlope: {x: -0.000000028610229, y: -0, z: -0.00028444288}
+        outSlope: {x: -0.000000028610229, y: -0, z: -0.00028444288}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.5833333
+        value: {x: 0.0048694205, y: 0.001616493, z: 0.0008100711}
+        inSlope: {x: -0.000000021457693, y: 0.000000003576282, z: -0.0002514931}
+        outSlope: {x: -0.000000028610215, y: -0, z: -0.00020353844}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.8333333
+        value: {x: 0.004869414, y: 0.0016164931, z: 0.0008090389}
+        inSlope: {x: -0.000000028610255, y: -0, z: 0.00019315499}
+        outSlope: {x: -0.000000021457662, y: -0, z: 0.00025515124}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916666
+        value: {x: 0.0048694024, y: 0.0016164936, z: 0.0009754507}
+        inSlope: {x: -0.000000028610255, y: -0, z: 0.00035511586}
+        outSlope: {x: -0.000000028610255, y: -0, z: 0.00035511586}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Shoulder_R_jnt1_017
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -2.9802322e-10, y: -0.003457212, z: -0.000000007450581}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916666
+        value: {x: -2.9802322e-10, y: -0.003457212, z: -0.000000007450581}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Shoulder_R_jnt1_017/Elbow_R_jnt1_018
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -4.4703483e-10, y: -0.0027322487, z: 0.00000006109476}
+        inSlope: {x: -5.768186e-11, y: -0, z: -6.9216183e-10}
+        outSlope: {x: -5.768186e-11, y: -0, z: -6.9216183e-10}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916666
+        value: {x: -5.2154064e-10, y: -0.0027322487, z: 0.00000006020069}
+        inSlope: {x: -5.768191e-11, y: -0, z: -6.921625e-10}
+        outSlope: {x: -5.768191e-11, y: -0, z: -6.921625e-10}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Shoulder_R_jnt1_017/Elbow_R_jnt1_018/Wrist_R_jnt1_019
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.00080424076, y: -0.0026761144, z: -0.00027520745}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916666
+        value: {x: 0.00080424076, y: -0.0026761144, z: -0.00027520745}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Shoulder_R_jnt1_017/Elbow_R_jnt1_018/Wrist_R_jnt1_019/Finger01_R_jnt_03_020
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.000000024624168, y: -0.0006452496, z: -0.00000005736947}
+        inSlope: {x: 1.15360305e-10, y: -0, z: 0.0000000017304046}
+        outSlope: {x: 1.15360305e-10, y: -0, z: 0.0000000017304046}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916666
+        value: {x: -0.000000024475156, y: -0.00064524915, z: -0.000000055134294}
+        inSlope: {x: 1.1536041e-10, y: -0, z: 0.0000000017304063}
+        outSlope: {x: 1.1536041e-10, y: -0, z: 0.0000000017304063}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Shoulder_R_jnt1_017/Elbow_R_jnt1_018/Wrist_R_jnt1_019/Finger01_R_jnt_03_020/Finger01_R_jnt_04_021
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.0009785752, y: -0.002411359, z: -0.00006269119}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916666
+        value: {x: -0.0009785752, y: -0.002411359, z: -0.00006269119}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Shoulder_R_jnt1_017/Elbow_R_jnt1_018/Wrist_R_jnt1_019/Finger02_R_jnt_03_022
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.000000007152557, y: -0.0005326369, z: 0.000000029504298}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916666
+        value: {x: -0.000000007152557, y: -0.0005326369, z: 0.000000029504298}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Shoulder_R_jnt1_017/Elbow_R_jnt1_018/Wrist_R_jnt1_019/Finger02_R_jnt_03_022/Finger02_R_jnt_04_023
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.0016084809, y: -0.0015103534, z: 0.0002490149}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916666
+        value: {x: 0.0016084809, y: -0.0015103534, z: 0.0002490149}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Shoulder_R_jnt1_017/Elbow_R_jnt1_018/Wrist_R_jnt1_019/Thumb_R_jnt_03_024
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.0000000036880372, y: -0.0006285392, z: -0.000000020489097}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916666
+        value: {x: 0.0000000036880372, y: -0.0006285392, z: -0.000000020489097}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Shoulder_R_jnt1_017/Elbow_R_jnt1_018/Wrist_R_jnt1_019/Thumb_R_jnt_03_024/Thumb_R_jnt_04_025
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -7.499588e-17, y: -0.0009316566, z: 0.007348661}
+        inSlope: {x: 3.1023766e-17, y: -0.00025109408, z: -0.00017304897}
+        outSlope: {x: 3.1023766e-17, y: -0.00025109408, z: -0.00017304897}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.083333336
+        value: {x: -7.2410564e-17, y: -0.0009655367, z: 0.00733424}
+        inSlope: {x: 3.1023766e-17, y: -0.0005620265, z: -0.00017304897}
+        outSlope: {x: 3.102377e-17, y: -0.0012566186, z: -0.00017304899}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.5833333
+        value: {x: -5.689867e-17, y: -0.0016921825, z: 0.0071591493}
+        inSlope: {x: 3.1023796e-17, y: -0.0009803663, z: -0.00021639367}
+        outSlope: {x: 3.1023753e-17, y: -0.0007453354, z: -0.00021640766}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.75
+        value: {x: -5.1728037e-17, y: -0.0017387542, z: 0.0071616555}
+        inSlope: {x: 3.1023753e-17, y: 0.00024695267, z: 0.00009218211}
+        outSlope: {x: 3.1023753e-17, y: 0.000560374, z: 0.00009218211}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.0416666
+        value: {x: -4.2679436e-17, y: -0.0013649954, z: 0.0072399783}
+        inSlope: {x: 3.1023796e-17, y: 0.001793137, z: 0.00044971032}
+        outSlope: {x: 3.102381e-17, y: 0.001844244, z: 0.0004625407}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916666
+        value: {x: -3.4923486e-17, y: -0.0009298847, z: 0.0073491028}
+        inSlope: {x: 3.1023796e-17, y: 0.0015280166, z: 0.0003832201}
+        outSlope: {x: 3.1023796e-17, y: 0.0015280166, z: 0.0003832201}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Carry_03
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -1.9752602e-18, y: -0.0074999994, z: -3.72529e-11}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916666
+        value: {x: -1.9752602e-18, y: -0.0074999994, z: -3.72529e-11}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Prefab_VFX_Infected_V02_026
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -6.8672117e-18, y: 0.008299998, z: 4.4237822e-11}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916666
+        value: {x: -6.8672117e-18, y: 0.008299998, z: 4.4237822e-11}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Prefab_VFX_Infected_V02_026/More_Infected_VFX_027
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -1.3178244e-18, y: -0.004099998, z: 7.4505804e-11}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916666
+        value: {x: -1.3178244e-18, y: -0.004099998, z: 7.4505804e-11}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Prefab_VFX_Infected_V02_026/More_Infected_VFX_027/Symbols_028
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -3.548133e-18, y: 0.0000000014502438, z: 4.4237822e-11}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916666
+        value: {x: -3.548133e-18, y: 0.0000000014502438, z: 4.4237822e-11}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Prefab_VFX_Infected_V02_026/More_Infected_VFX_027/waistRing
+      (1)_029
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -2.9260985e-18, y: 0.0056999982, z: 1.11758706e-10}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916666
+        value: {x: -2.9260985e-18, y: 0.0056999982, z: 1.11758706e-10}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Prefab_VFX_Infected_V02_026/SmokeTrailing_030
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -3.3264868e-18, y: 0.0046999985, z: 7.4505804e-11}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916666
+        value: {x: -3.3264868e-18, y: 0.0046999985, z: 7.4505804e-11}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Prefab_VFX_Infected_V02_026/SmokeLocal_031
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 2.0474536e-18, y: -0.0034155361, z: 0.0000046117325}
+        inSlope: {x: 8.661399e-19, y: -0.000042278767, z: -0.000006861943}
+        outSlope: {x: 8.661399e-19, y: -0.000042278767, z: -0.000006861943}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.20833333
+        value: {x: 2.2278991e-18, y: -0.0034379577, z: 0.0000031821614}
+        inSlope: {x: 8.661369e-19, y: -0.00022104269, z: -0.0000068619443}
+        outSlope: {x: 8.6613973e-19, y: -0.00023897405, z: -0.000015507412}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.375
+        value: {x: 2.3722558e-18, y: -0.0034782318, z: 0.0000006145425}
+        inSlope: {x: 8.661401e-19, y: -0.00023335223, z: -0.000015304015}
+        outSlope: {x: 8.661401e-19, y: -0.0002138186, z: -0.000013504698}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.45833334
+        value: {x: 2.444434e-18, y: -0.0034958827, z: -0.000000510849}
+        inSlope: {x: 8.661395e-19, y: -0.00020979872, z: -0.000013504697}
+        outSlope: {x: 8.6613374e-19, y: -0.00022022014, z: -0.000013922344}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.5416667
+        value: {x: 2.516612e-18, y: -0.0035140794, z: -0.0000016710442}
+        inSlope: {x: 8.661395e-19, y: -0.00021650064, z: -0.000013922334}
+        outSlope: {x: 8.6614066e-19, y: -0.00019750374, z: -0.000010202158}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.6666667
+        value: {x: 2.6248796e-18, y: -0.003534082, z: -0.0000029463133}
+        inSlope: {x: 8.661395e-19, y: -0.00014127724, z: -0.000010202148}
+        outSlope: {x: 8.661395e-19, y: 0.000041484815, z: 0.000006805976}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.875
+        value: {x: 2.8053251e-18, y: -0.003511846, z: -0.0000015284028}
+        inSlope: {x: 8.661395e-19, y: 0.00022310246, z: 0.0000068059726}
+        outSlope: {x: 8.661395e-19, y: 0.00022833097, z: 0.000013852826}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.9583333
+        value: {x: 2.8775035e-18, y: -0.003493737, z: -0.0000003740005}
+        inSlope: {x: 8.6614066e-19, y: 0.0002062871, z: 0.000013852835}
+        outSlope: {x: 8.661395e-19, y: 0.0002836703, z: 0.000016291393}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.0416666
+        value: {x: 2.9496818e-18, y: -0.003472442, z: 0.0000009836164}
+        inSlope: {x: 8.6614066e-19, y: 0.00022740863, z: 0.000016291417}
+        outSlope: {x: 8.6613823e-19, y: 0.00022416787, z: 0.000014214797}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916666
+        value: {x: 3.1662164e-18, y: -0.003417178, z: 0.0000045068655}
+        inSlope: {x: 8.6614066e-19, y: 0.00022072812, z: 0.000014047413}
+        outSlope: {x: 8.6614066e-19, y: 0.00022072812, z: 0.000014047413}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Pelvis_C_jnt_032
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -0.0015956984, y: -0.0011943856, z: -0.00029158144}
+        inSlope: {x: -0, y: -0.00008100092, z: 0.000032993405}
+        outSlope: {x: -0, y: -0.00008100092, z: 0.000032993405}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.29166666
+        value: {x: -0.0015956984, y: -0.0012123865, z: -0.00027479956}
+        inSlope: {x: -0, y: -0.000030913357, z: 0.00010778728}
+        outSlope: {x: -0, y: -0.00003091334, z: 0.00011959919}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.8333333
+        value: {x: -0.0015956984, y: -0.0012176133, z: -0.00022661497}
+        inSlope: {x: -0, y: 0.000010691296, z: -0.000026041145}
+        outSlope: {x: -0, y: 0.00001069128, z: -0.00006366667}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916666
+        value: {x: -0.0015956984, y: -0.0011933526, z: -0.00029015422}
+        inSlope: {x: -0, y: 0.000054904867, z: -0.00013862831}
+        outSlope: {x: -0, y: 0.000054904867, z: -0.00013862831}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Pelvis_C_jnt_032/Hip_L_jnt_033
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 2.0867447e-10, y: 0.0007908636, z: 8.1490724e-11}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916666
+        value: {x: 2.0867447e-10, y: 0.0007908636, z: 8.1490724e-11}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Pelvis_C_jnt_032/Hip_L_jnt_033/Knee_L_jnt_034
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 4.3364708e-11, y: 0.0007082144, z: -1.466833e-10}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916666
+        value: {x: 4.3364708e-11, y: 0.0007082144, z: -1.466833e-10}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Pelvis_C_jnt_032/Hip_L_jnt_033/Knee_L_jnt_034/Ankle_L_jnt_035
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -3.9870825e-11, y: 0.0012350674, z: -1.2425061e-10}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916666
+        value: {x: -3.9870825e-11, y: 0.0012350674, z: -1.2425061e-10}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Pelvis_C_jnt_032/Hip_L_jnt_033/Knee_L_jnt_034/Ankle_L_jnt_035/Ball_L_jnt_00
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1.6196423e-10, y: 0.001829742, z: -2.9908732e-11}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916666
+        value: {x: 1.6196423e-10, y: 0.001829742, z: -2.9908732e-11}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Pelvis_C_jnt_032/Hip_L_jnt_033/Knee_L_jnt_034/Ankle_L_jnt_035/Ball_L_jnt_00/Toe_L_jnt_036
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.0015328135, y: -0.0012112007, z: -0.00027100448}
+        inSlope: {x: -0, y: -0.00006752729, z: 0.00001872763}
+        outSlope: {x: -0, y: -0.00006752729, z: 0.00001872763}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.375
+        value: {x: 0.0015328135, y: -0.0012255197, z: -0.00025618778}
+        inSlope: {x: -0, y: 0.0000062870995, z: 0.00007803442}
+        outSlope: {x: -0, y: 0.0000062853114, z: 0.00008343594}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 0.8333334
+        value: {x: 0.0015328135, y: -0.0012213967, z: -0.00022774872}
+        inSlope: {x: -0, y: 0.000016221991, z: -0.000006494966}
+        outSlope: {x: -0, y: 0.000016222015, z: -0.0000064945284}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916666
+        value: {x: 0.0015328135, y: -0.0012105249, z: -0.00026874192}
+        inSlope: {x: -0, y: 0.000024735355, z: -0.00010036567}
+        outSlope: {x: -0, y: 0.000024735355, z: -0.00010036567}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Pelvis_C_jnt_032/Hip_R_jnt_037
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1.169974e-10, y: -0.0007908638, z: -7.0314854e-10}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916666
+        value: {x: 1.169974e-10, y: -0.0007908638, z: -7.0314854e-10}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Pelvis_C_jnt_032/Hip_R_jnt_037/Knee_R_jnt_038
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1.330045e-10, y: -0.0007082217, z: -0.0000000045401976}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916666
+        value: {x: 1.330045e-10, y: -0.0007082217, z: -0.0000000045401976}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Pelvis_C_jnt_032/Hip_R_jnt_037/Knee_R_jnt_038/Ankle_R_jnt_039
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 7.974222e-11, y: -0.001235068, z: -0.0000000049464415}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916666
+        value: {x: 7.974222e-11, y: -0.001235068, z: -0.0000000049464415}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Pelvis_C_jnt_032/Hip_R_jnt_037/Knee_R_jnt_038/Ankle_R_jnt_039/Ball_R_jnt_040
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -3.4626736e-11, y: -0.001829744, z: 3.8563938e-10}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916666
+        value: {x: -3.4626736e-11, y: -0.001829744, z: 3.8563938e-10}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Pelvis_C_jnt_032/Hip_R_jnt_037/Knee_R_jnt_038/Ankle_R_jnt_039/Ball_R_jnt_040/Toe_R_jnt_041
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1.8471898e-18, y: 0.00005967942, z: 0.000003496185}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916666
+        value: {x: 1.8471898e-18, y: 0.00005967942, z: 0.000003496185}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Torso_C_jnt_042
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 3.4148177e-18, y: -0.0068439115, z: -2.2409949e-11}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916666
+        value: {x: 3.4148177e-18, y: -0.0068439115, z: -2.2409949e-11}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/PB_TailTag_043
+  m_ScaleCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 0.99999976, z: 0.99999976}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: 1, y: 0.99999976, z: 0.99999976}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 0.99999994, z: 0.99999994}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: 1, y: 0.99999994, z: 0.99999994}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 0.99999994, z: 0.99999994}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: 1, y: 0.99999994, z: 0.99999994}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Head_C_jnt01_04
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 0.9999999, z: 0.99999994}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: 1, y: 0.9999999, z: 0.99999994}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Head_C_jnt01_04/Eye_L_jnt_05
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Head_C_jnt01_04/Eye_R_jnt_06
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 0.9999998, z: 0.9999998}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: 1, y: 0.9999998, z: 0.9999998}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Head_C_jnt01_04/Head_C_nub_07
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1.0000002, y: 1.0000005, z: 1.0000005}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: 1.0000002, y: 1.0000005, z: 1.0000005}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Shoulder_L_jnt_08
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.9999999, y: 0.9999999, z: 0.9999999}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: 0.9999999, y: 0.9999999, z: 0.9999999}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Shoulder_L_jnt_08/Elbow_L_jnt_09
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1.0000001, y: 1, z: 1.0000002}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: 1.0000001, y: 1, z: 1.0000002}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Shoulder_L_jnt_08/Elbow_L_jnt_09/Wrist_L_jnt_010
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.99999994, y: 0.9999997, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: 0.99999994, y: 0.9999997, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Shoulder_L_jnt_08/Elbow_L_jnt_09/Wrist_L_jnt_010/Finger01_L_jnt_01_011
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1.0000001, y: 1, z: 0.9999999}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: 1.0000001, y: 1, z: 0.9999999}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Shoulder_L_jnt_08/Elbow_L_jnt_09/Wrist_L_jnt_010/Finger01_L_jnt_01_011/Finger01_L_jnt_02_012
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.99999976, y: 0.99999994, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: 0.99999976, y: 0.99999994, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Shoulder_L_jnt_08/Elbow_L_jnt_09/Wrist_L_jnt_010/Finger02_L_jnt_01_013
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 0.9999999, z: 1.0000001}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: 1, y: 0.9999999, z: 1.0000001}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Shoulder_L_jnt_08/Elbow_L_jnt_09/Wrist_L_jnt_010/Finger02_L_jnt_01_013/Finger02_L_jnt_02_014
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.99999994, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: 0.99999994, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Shoulder_L_jnt_08/Elbow_L_jnt_09/Wrist_L_jnt_010/Thumb_L_jnt_01_015
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1.0000001, y: 0.99999994, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: 1.0000001, y: 0.99999994, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Shoulder_L_jnt_08/Elbow_L_jnt_09/Wrist_L_jnt_010/Thumb_L_jnt_01_015/Thumb_L_jnt_02_016
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.99999994, y: 1, z: 1.0000001}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: 0.99999994, y: 1, z: 1.0000001}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Shoulder_R_jnt1_017
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.9999999, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: 0.9999999, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Shoulder_R_jnt1_017/Elbow_R_jnt1_018
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1.0000001, y: 1, z: 1.0000001}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: 1.0000001, y: 1, z: 1.0000001}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Shoulder_R_jnt1_017/Elbow_R_jnt1_018/Wrist_R_jnt1_019
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 0.99999994, z: 0.99999994}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: 1, y: 0.99999994, z: 0.99999994}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Shoulder_R_jnt1_017/Elbow_R_jnt1_018/Wrist_R_jnt1_019/Finger01_R_jnt_03_020
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1.0000001, y: 1.0000001, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: 1.0000001, y: 1.0000001, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Shoulder_R_jnt1_017/Elbow_R_jnt1_018/Wrist_R_jnt1_019/Finger01_R_jnt_03_020/Finger01_R_jnt_04_021
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.99999994, y: 1, z: 0.99999994}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: 0.99999994, y: 1, z: 0.99999994}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Shoulder_R_jnt1_017/Elbow_R_jnt1_018/Wrist_R_jnt1_019/Finger02_R_jnt_03_022
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1.0000001, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: 1, y: 1.0000001, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Shoulder_R_jnt1_017/Elbow_R_jnt1_018/Wrist_R_jnt1_019/Finger02_R_jnt_03_022/Finger02_R_jnt_04_023
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.99999994, y: 0.9999998, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: 0.99999994, y: 0.9999998, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Shoulder_R_jnt1_017/Elbow_R_jnt1_018/Wrist_R_jnt1_019/Thumb_R_jnt_03_024
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 0.99999994, z: 0.99999994}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: 1, y: 0.99999994, z: 0.99999994}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Shoulder_R_jnt1_017/Elbow_R_jnt1_018/Wrist_R_jnt1_019/Thumb_R_jnt_03_024/Thumb_R_jnt_04_025
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Carry_03
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Prefab_VFX_Infected_V02_026
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Prefab_VFX_Infected_V02_026/More_Infected_VFX_027
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Prefab_VFX_Infected_V02_026/More_Infected_VFX_027/Symbols_028
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Prefab_VFX_Infected_V02_026/More_Infected_VFX_027/waistRing
+      (1)_029
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Prefab_VFX_Infected_V02_026/SmokeTrailing_030
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Chest_C_jnt_02/Prefab_VFX_Infected_V02_026/SmokeLocal_031
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 0.9999998, z: 0.9999998}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: 1, y: 0.9999998, z: 0.9999998}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Pelvis_C_jnt_032
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1.0000004, z: 1.0000008}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: 1, y: 1.0000004, z: 1.0000008}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Pelvis_C_jnt_032/Hip_L_jnt_033
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 0.99999994, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: 1, y: 0.99999994, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Pelvis_C_jnt_032/Hip_L_jnt_033/Knee_L_jnt_034
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0.9999999, y: 0.9999998, z: 0.99999976}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: 0.9999999, y: 0.9999998, z: 0.99999976}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Pelvis_C_jnt_032/Hip_L_jnt_033/Knee_L_jnt_034/Ankle_L_jnt_035
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Pelvis_C_jnt_032/Hip_L_jnt_033/Knee_L_jnt_034/Ankle_L_jnt_035/Ball_L_jnt_00
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1.0000001, z: 1.0000001}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: 1, y: 1.0000001, z: 1.0000001}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Pelvis_C_jnt_032/Hip_L_jnt_033/Knee_L_jnt_034/Ankle_L_jnt_035/Ball_L_jnt_00/Toe_L_jnt_036
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 0.99999964, z: 0.9999999}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: 1, y: 0.99999964, z: 0.9999999}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Pelvis_C_jnt_032/Hip_R_jnt_037
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 0.9999999, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: 1, y: 0.9999999, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Pelvis_C_jnt_032/Hip_R_jnt_037/Knee_R_jnt_038
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1.0000001, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: 1, y: 1.0000001, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Pelvis_C_jnt_032/Hip_R_jnt_037/Knee_R_jnt_038/Ankle_R_jnt_039
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Pelvis_C_jnt_032/Hip_R_jnt_037/Knee_R_jnt_038/Ankle_R_jnt_039/Ball_R_jnt_040
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Pelvis_C_jnt_032/Hip_R_jnt_037/Knee_R_jnt_038/Ankle_R_jnt_039/Ball_R_jnt_040/Toe_R_jnt_041
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1.0540926, y: 0.8999999, z: 1.0540926}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: 1.0540926, y: 0.8999999, z: 1.0540926}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/Torso_C_jnt_042
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      - serializedVersion: 3
+        time: 1.2916667
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: Sketchfab_model/8a2d58e49a3d40dbad616e6452da3582.fbx/Object_2/RootNode/Character
+      (merge)/Character/SKELETON/Root/Object_8/_rootJoint/Torso_C_jnt_NoStrechSquash_01/PB_TailTag_043
+  m_FloatCurves: []
+  m_PPtrCurves: []
+  m_SampleRate: 24
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings: []
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 1.2916667
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves: []
+  m_EulerEditorCurves: []
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_Events: []
